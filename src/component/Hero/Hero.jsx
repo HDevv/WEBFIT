@@ -69,8 +69,8 @@ class Hero extends Component {
 
           {/* hero buttons */}
           <div className="hero-buttons">
-            <buttons className="btn">Commencer</buttons>
-            <buttons className="btn">En savoir plus</buttons>
+            <button className="btn">Commencer</button>
+            <button className="btn">En savoir plus</button>
           </div>
         </div>
         <div className="right-h">
