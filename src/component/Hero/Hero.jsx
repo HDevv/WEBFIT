@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "../Hero/Hero.css";
-import Header from "../Header/Header";
+// import Header from "../Header/Header";
 import Heart from "../../assets/heart.png";
 import hero_image from "../../assets/hero_image.png";
 import hero_image_back from "../../assets/hero_image_back.png";
@@ -17,7 +17,7 @@ class Hero extends Component {
       <div className="hero" id="home">
         <div className="blur hero-blur"></div>
         <div className="left-h">
-          <Header />
+          {/* <Header /> */}
           {/* the best ad */}
           <div className="the-best-ad">
             <motion.div
