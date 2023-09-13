@@ -1,5 +1,6 @@
 <h1>🏋️ WEBFIT 🏋️</h1>
-<hr><p>Un site de présentation pour coach sportif fais avec React pour le plaisir et qui pourrait me servir à l'avenir</p><h2>General Information</h2>
+<hr><p>Un site de présentation pour coach sportif</p>
+<p>fais avec React pour le plaisir et qui pourrait me servir à l'avenir</p><h2>General Information</h2>
 <hr><ul>
 <li>Fais avec React, intégration d'une fonction de contacts, animations</li>
 </ul><ul>
